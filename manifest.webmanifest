@@ -1,0 +1,17 @@
+{
+  "name": "Binu AI",
+  "short_name": "Binu AI",
+  "description": "Asisten AI: tulis cerita, tulis kode, jawab PR, jelaskan rumus, dan baca foto dari galeri. Langsung ke inti, tanpa basa-basi.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0e1e",
+  "theme_color": "#0a0e1e",
+  "lang": "id",
+  "categories": ["utilities", "productivity", "education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
